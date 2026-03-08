@@ -58,12 +58,18 @@
       </div>
       <div class="hero-images">
         <div class="image-card large">
-          <img src="https://placehold.co/640x520" alt="Luxury pool with ocean view" />
+          <img
+            src="https://images.unsplash.com/photo-1760564019101-c265521c08f9?auto=format&fit=crop&w=1000&q=80&ixlib=rb-4.1.0"
+            alt="Luxury pool with ocean view"
+          />
           <span class="image-tag">Oceanfront clean</span>
         </div>
         <div class="image-card small">
-          <img src="https://placehold.co/360x280" alt="Hawaiian hibiscus flowers" />
-          <span class="image-tag">Hibiscus care</span>
+          <img
+            src="https://images.unsplash.com/photo-1742353980377-b8e42932c590?auto=format&fit=crop&w=700&q=80&ixlib=rb-4.1.0"
+            alt="Underwater pool cleaning robot"
+          />
+          <span class="image-tag">Pool cleaning</span>
         </div>
       </div>
     </div>
@@ -252,7 +258,10 @@
       </div>
     </div>
     <div class="floral-image">
-      <img src="https://placehold.co/520x480" alt="Hawaii flowers and water texture" />
+      <img
+        src="https://images.unsplash.com/photo-1548285852-c2c61bf144f9?auto=format&fit=crop&w=900&q=80&ixlib=rb-4.1.0"
+        alt="Hawaiian hibiscus flowers"
+      />
     </div>
   </section>
 
@@ -337,7 +346,8 @@
     padding: 24px 8vw 80px;
     background:
       radial-gradient(circle at top right, rgba(0, 153, 255, 0.2), transparent 50%),
-      url("https://placehold.co/1200x700") center/cover no-repeat;
+      url("https://images.unsplash.com/photo-1554419154-e40007a2931b?auto=format&fit=crop&w=1600&q=80&ixlib=rb-4.1.0")
+        center/cover no-repeat;
     position: relative;
     overflow: hidden;
   }
